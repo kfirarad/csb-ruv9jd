@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://kfirarad.github.io/csb-ruv9jd/static/css/main.0b22f4a2.chunk.css",
-    "main.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.33423ea7.chunk.js",
-    "main.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.33423ea7.chunk.js.map",
+    "main.css": "https://kfirarad.github.io/csb-ruv9jd/static/css/main.7762f62a.chunk.css",
+    "main.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.54f490bf.chunk.js",
+    "main.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.54f490bf.chunk.js.map",
     "runtime-main.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/runtime-main.750ed94f.js",
     "runtime-main.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/runtime-main.750ed94f.js.map",
     "static/js/2.095424a4.chunk.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.095424a4.chunk.js",
     "static/js/2.095424a4.chunk.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.095424a4.chunk.js.map",
     "index.html": "https://kfirarad.github.io/csb-ruv9jd/index.html",
-    "static/css/main.0b22f4a2.chunk.css.map": "https://kfirarad.github.io/csb-ruv9jd/static/css/main.0b22f4a2.chunk.css.map",
+    "static/css/main.7762f62a.chunk.css.map": "https://kfirarad.github.io/csb-ruv9jd/static/css/main.7762f62a.chunk.css.map",
     "static/js/2.095424a4.chunk.js.LICENSE.txt": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.095424a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.750ed94f.js",
     "static/js/2.095424a4.chunk.js",
-    "static/css/main.0b22f4a2.chunk.css",
-    "static/js/main.33423ea7.chunk.js"
+    "static/css/main.7762f62a.chunk.css",
+    "static/js/main.54f490bf.chunk.js"
   ]
 }
