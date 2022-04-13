@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-ruv9jd/static/css/main.11d8d836.chunk.css",
-    "main.js": "https://.github.io/csb-ruv9jd/static/js/main.e6905cad.chunk.js",
-    "main.js.map": "https://.github.io/csb-ruv9jd/static/js/main.e6905cad.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-ruv9jd/static/js/runtime-main.e244a63f.js",
-    "runtime-main.js.map": "https://.github.io/csb-ruv9jd/static/js/runtime-main.e244a63f.js.map",
-    "static/css/2.b28305bc.chunk.css": "https://.github.io/csb-ruv9jd/static/css/2.b28305bc.chunk.css",
-    "static/js/2.e126a051.chunk.js": "https://.github.io/csb-ruv9jd/static/js/2.e126a051.chunk.js",
-    "static/js/2.e126a051.chunk.js.map": "https://.github.io/csb-ruv9jd/static/js/2.e126a051.chunk.js.map",
-    "index.html": "https://.github.io/csb-ruv9jd/index.html",
-    "static/css/2.b28305bc.chunk.css.map": "https://.github.io/csb-ruv9jd/static/css/2.b28305bc.chunk.css.map",
-    "static/css/main.11d8d836.chunk.css.map": "https://.github.io/csb-ruv9jd/static/css/main.11d8d836.chunk.css.map",
-    "static/js/2.e126a051.chunk.js.LICENSE.txt": "https://.github.io/csb-ruv9jd/static/js/2.e126a051.chunk.js.LICENSE.txt"
+    "main.css": "https://kfirarad.github.io/csb-ruv9jd/static/css/main.11d8d836.chunk.css",
+    "main.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.87f85072.chunk.js",
+    "main.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.87f85072.chunk.js.map",
+    "runtime-main.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/runtime-main.750ed94f.js",
+    "runtime-main.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/runtime-main.750ed94f.js.map",
+    "static/css/2.b28305bc.chunk.css": "https://kfirarad.github.io/csb-ruv9jd/static/css/2.b28305bc.chunk.css",
+    "static/js/2.e126a051.chunk.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.e126a051.chunk.js",
+    "static/js/2.e126a051.chunk.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.e126a051.chunk.js.map",
+    "index.html": "https://kfirarad.github.io/csb-ruv9jd/index.html",
+    "static/css/2.b28305bc.chunk.css.map": "https://kfirarad.github.io/csb-ruv9jd/static/css/2.b28305bc.chunk.css.map",
+    "static/css/main.11d8d836.chunk.css.map": "https://kfirarad.github.io/csb-ruv9jd/static/css/main.11d8d836.chunk.css.map",
+    "static/js/2.e126a051.chunk.js.LICENSE.txt": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.e126a051.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e244a63f.js",
+    "static/js/runtime-main.750ed94f.js",
     "static/css/2.b28305bc.chunk.css",
     "static/js/2.e126a051.chunk.js",
     "static/css/main.11d8d836.chunk.css",
-    "static/js/main.e6905cad.chunk.js"
+    "static/js/main.87f85072.chunk.js"
   ]
 }
