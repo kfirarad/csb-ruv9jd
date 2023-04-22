@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "https://kfirarad.github.io/csb-ruv9jd/static/css/main.c565992d.chunk.css",
-    "main.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.04bbcd39.chunk.js",
-    "main.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.04bbcd39.chunk.js.map",
-    "runtime-main.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/runtime-main.6ed3132d.js",
-    "runtime-main.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/runtime-main.6ed3132d.js.map",
+    "main.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.9bbe6686.chunk.js",
+    "main.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/main.9bbe6686.chunk.js.map",
+    "runtime-main.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/runtime-main.872bb608.js",
+    "runtime-main.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/runtime-main.872bb608.js.map",
     "static/css/2.b28305bc.chunk.css": "https://kfirarad.github.io/csb-ruv9jd/static/css/2.b28305bc.chunk.css",
-    "static/js/2.0114872e.chunk.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.0114872e.chunk.js",
-    "static/js/2.0114872e.chunk.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.0114872e.chunk.js.map",
+    "static/js/2.cb33dc45.chunk.js": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.cb33dc45.chunk.js",
+    "static/js/2.cb33dc45.chunk.js.map": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.cb33dc45.chunk.js.map",
     "index.html": "https://kfirarad.github.io/csb-ruv9jd/index.html",
     "static/css/2.b28305bc.chunk.css.map": "https://kfirarad.github.io/csb-ruv9jd/static/css/2.b28305bc.chunk.css.map",
     "static/css/main.c565992d.chunk.css.map": "https://kfirarad.github.io/csb-ruv9jd/static/css/main.c565992d.chunk.css.map",
-    "static/js/2.0114872e.chunk.js.LICENSE.txt": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.0114872e.chunk.js.LICENSE.txt"
+    "static/js/2.cb33dc45.chunk.js.LICENSE.txt": "https://kfirarad.github.io/csb-ruv9jd/static/js/2.cb33dc45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ed3132d.js",
+    "static/js/runtime-main.872bb608.js",
     "static/css/2.b28305bc.chunk.css",
-    "static/js/2.0114872e.chunk.js",
+    "static/js/2.cb33dc45.chunk.js",
     "static/css/main.c565992d.chunk.css",
-    "static/js/main.04bbcd39.chunk.js"
+    "static/js/main.9bbe6686.chunk.js"
   ]
 }
